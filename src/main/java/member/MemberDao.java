@@ -15,7 +15,7 @@ public class MemberDao {
 	ResultSet rs;
 	
 	private String db_Id = "root";
-	private String db_Pwd = "!@#alstp9753";
+	private String db_Pwd = "";
 	
 	private String db_Host = "localhost:3306";
 	private String db_Name = "jspclass";
